@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderHandler", "OrderHandler\OrderHandler.csproj", "{98EC8565-1084-4BA8-B065-AE6D3322DA48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Order.Handler.Test", "Order.Handler.Test\Order.Handler.Test.csproj", "{A51DA523-188C-4EC0-B0AC-0BF334D17EE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98EC8565-1084-4BA8-B065-AE6D3322DA48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98EC8565-1084-4BA8-B065-AE6D3322DA48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98EC8565-1084-4BA8-B065-AE6D3322DA48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98EC8565-1084-4BA8-B065-AE6D3322DA48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A51DA523-188C-4EC0-B0AC-0BF334D17EE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A51DA523-188C-4EC0-B0AC-0BF334D17EE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A51DA523-188C-4EC0-B0AC-0BF334D17EE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A51DA523-188C-4EC0-B0AC-0BF334D17EE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

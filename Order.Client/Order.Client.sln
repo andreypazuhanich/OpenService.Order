@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Order.Client", "Order.Client\Order.Client.csproj", "{6B2FD06B-4D3E-4FD1-B343-94CA045F6469}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL.EntityFramework", "DAL.EntityFramework\DAL.EntityFramework.csproj", "{B2A0D08A-3FD7-44DD-9127-1BF32C3A0C51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Order.Models", "Order.Models\Order.Models.csproj", "{60FECB6E-1DB6-4481-A704-5F4531902711}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B2FD06B-4D3E-4FD1-B343-94CA045F6469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B2FD06B-4D3E-4FD1-B343-94CA045F6469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B2FD06B-4D3E-4FD1-B343-94CA045F6469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B2FD06B-4D3E-4FD1-B343-94CA045F6469}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2A0D08A-3FD7-44DD-9127-1BF32C3A0C51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2A0D08A-3FD7-44DD-9127-1BF32C3A0C51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2A0D08A-3FD7-44DD-9127-1BF32C3A0C51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2A0D08A-3FD7-44DD-9127-1BF32C3A0C51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60FECB6E-1DB6-4481-A704-5F4531902711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60FECB6E-1DB6-4481-A704-5F4531902711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60FECB6E-1DB6-4481-A704-5F4531902711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60FECB6E-1DB6-4481-A704-5F4531902711}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
